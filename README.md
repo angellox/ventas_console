@@ -1,23 +1,17 @@
-<<<<<<< HEAD
-## Getting Started
+## Sales System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Small system that allows you to add new products to your order and list them with the total to pay.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
+## Especifications:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
 
+## Features:
+- POO
+- Only Console
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Screenshoots
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# ventas_console
-Programa de ventas a nivel consola en Java.
->>>>>>> 5064b235c728579dea037fadd86ef091d633a6a2
+<img src="https://github.com/angellox/icons_readme/blob/main/invoice.PNG" width="450" />
