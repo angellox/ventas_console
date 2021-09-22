@@ -29,9 +29,9 @@ public class Orden {
     }
 
     public void mostrarOrden(){
-        System.out.println("----- FACTURA SIMPLIFICADO ----\n");
-        System.out.println(" Orden #: \t" + this.idOrden + "\n");
-        System.out.println("----- ID ----\t----- PRODUCTOS ----\t----- PRECIO ----");
+        System.out.println("----- Invoice Simplified ----\n");
+        System.out.println(" Order #: \t" + this.idOrden + "\n");
+        System.out.println("----- ID ----\t----- PRODUCTS ----\t----- PRICE ----");
 
         for(int i = 0; i < this.contadorProductos; i++){
             System.out.println(productos[i].getIdProducto() + "\t\t" + productos[i].getNombre() + "\t\t$ " + productos[i].getPrecio());
