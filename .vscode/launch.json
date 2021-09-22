@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TestVentas",
+            "request": "launch",
+            "mainClass": "mx.com.ang.ventas.test.TestVentas",
+            "projectName": "Ventas_a3612c33"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "args": "",
+            "console": "internalConsole",
+            "mainClass": "${file}"
+        }
+    ]
+}
